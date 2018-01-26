@@ -5,9 +5,15 @@
 # Public Speaking
 > A repository of my talk proposals; in progress, accepted or rejected
 
-In the spirit of transparency and open source. I'm keeping all my talk plans and proposals public here in this repository. **I've never given a talk at a conference before** so this is all very new to me.
+In the spirit of transparency and OSS. I'm keeping all my talk proposals here in this repository. **I've never given a talk at a conference before** so this is all very new to me! I'm excited to dive in. *Want me to speak about something here?* Please hit me up on twitter; I'm <a href="https://twitter.com/hamstu">@hamstu</a>.
 
 ✨ Inspired by my friend and coworker [Joe Birch's PublicSpeaking repository](https://github.com/hitherejoe/PublicSpeaking).
+
+# Talk Directory
+
+**Name**|**Date Created**|**Status**
+:-----|:-----:|:-----:
+[Writing Documentation for Humans](./talks/writing-documentation-for-humans.md)|Jan 5 2018| 📝 WIP
 
 ### What's up with the ancient Japanese art?
 
