@@ -3,7 +3,7 @@
 </p>
 
 # Public Speaking
-> A repository of my talk proposals, in progress, accepted or rejected
+> A repository of my talk proposals; in progress, accepted or rejected
 
 In the spirit of transparency and open source. I'm keeping all my talk plans and proposals public here in this repository. **I've never given a talk at a conference before** so this is all very new to me.
 
