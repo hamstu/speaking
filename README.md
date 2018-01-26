@@ -2,7 +2,7 @@
   <img align="middle" src="./images/great_wave_off_kanagawa.jpg" width="400" />
 </p>
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa">🖼 The Great Wave off Kanagawa</a>
+  <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa">🌊 The Great Wave off Kanagawa</a>
 </p>
 
 # Public Speaking
