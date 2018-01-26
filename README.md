@@ -13,8 +13,8 @@ In the spirit of transparency and OSS. I'm keeping all my talk proposals here in
 
 **Name**|**Date Created**|**Status**
 :-----|:-----:|:-----:
-[Writing Documentation for Humans](./talks/writing-documentation-for-humans.md)|Jan 5 2018| 📝 WIP
+[Writing Documentation for Humans](./talks/writing-documentation-for-humans.md)|Jan 26 2018| 📝 WIP
 
-### What's up with the ancient Japanese art?
+### What's up with the old Japanese art?
 
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa">The Great Wave off Kanagawa</a> has to be one of my favorite peices of art. I somehow find it both peaceful and exciting at the same time — kind of like the way I feel about speaking at conferences!
