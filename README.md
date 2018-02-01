@@ -14,6 +14,7 @@ In the spirit of transparency and OSS. I'm keeping all my talk proposals here in
 **Name**|**Date Created**|**Status**
 :-----|:-----:|:-----:
 [Writing Documentation for Humans](./talks/writing-documentation-for-humans.md)|Jan 26 2018| 📝 WIP
+[Building a Blockchain](./talks/building-a-blockchain.md)|Jan 31 2018| Submitted
 
 ### What's up with the old Japanese art?
 
