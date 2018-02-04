@@ -19,3 +19,7 @@ _Coming soon..._
 ---
 
 Resources:
+
+* https://bitzuma.com/posts/how-bitcoin-works/
+* https://github.com/bitcoinbook/bitcoinbook
+* https://github.com/nimiq-network/core (Browser based blockchain/cyrptocurrency)
