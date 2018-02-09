@@ -23,3 +23,4 @@ Resources:
 * https://github.com/bitcoinbook/bitcoinbook
 * https://github.com/nimiq-network/core (Browser based blockchain/cyrptocurrency)
 * https://github.com/lhartikk/naivecoin
+* https://webassembly.studio/ (WASM Studio, for faster mining?)
