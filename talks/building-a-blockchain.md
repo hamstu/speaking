@@ -19,6 +19,7 @@ _Coming soon..._
 
 Resources:
 
+* https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b
 * https://bitzuma.com/posts/how-bitcoin-works/
 * https://github.com/bitcoinbook/bitcoinbook
 * https://github.com/nimiq-network/core (Browser based blockchain/cyrptocurrency)
